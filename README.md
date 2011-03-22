@@ -1,4 +1,4 @@
-Image Timer Plugin for emesene 2008
+Image Timer Plugin for emesene
 ====================================
 
 
@@ -36,7 +36,7 @@ Image Timer Plugin for emesene 2008
 
 -----------------------------------
 
-### Changelog v. 0.2
+### Changelog v. 0.2 - 2009 version
 
 1. bug fix : thanks to marramao @ line 43
 2. others bug fixes
