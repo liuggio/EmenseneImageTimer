@@ -16,7 +16,7 @@ Image Timer Plugin for emesene 2008
 
 2. or use GIT
 
-	git clone git@github.com:liuggio/ImageTimerEmesenePlugin
+	git clone git@github.com:liuggio/EmenseneImageTimer.git
 
 - **open** emesene
 
@@ -47,7 +47,10 @@ Image Timer Plugin for emesene 2008
 -----------------------------------
 
 ### old related threads
+
 http://forum.emesene.org/index.php/topic,2717.new.html#new
+
 http://forum.emesene.org/index.php/topic,606.0.html
+
 http://forum.emesene.org/index.php/topic,606.15.html
 
